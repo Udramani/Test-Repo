@@ -4,7 +4,7 @@
 
 
 {
-    "name": "Stock Disallow Negative for test update",
+    "name": "Stock Disallow Negative",
     "version": "18.0.1.0.0",
     "category": "Inventory, Logistic, Storage",
     "license": "AGPL-3",
